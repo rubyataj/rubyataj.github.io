@@ -21,6 +21,10 @@ let head3 = 'Hello family!';
 const myHeading3 = document.querySelector('h3');
 myHeading3.textContent = head3;
 
+let head4 = 'Hello darling!';
+const myHeading4 = document.querySelector('h4');
+myHeading4.textContent = head4;
+
 let numb1 = 0;
 let wahr = true;
 let boys = [1,'Bob','Steve','Tom',10];
@@ -175,7 +179,7 @@ myImage.onclick = function() {
     }
 }
 
-//
+//make user change
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 
